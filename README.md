@@ -1,4 +1,4 @@
-# Matplotlib
+## Matplotlib
 ---
 
 # Pymaceuticals Drug Study Analysis
@@ -9,7 +9,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Results](#results)
-- [Author](#author)
 
 ---
 
@@ -73,17 +72,10 @@ The project includes the following datasets:
 ### Key Insights:
 
 1.	Tumor Growth:
-- Drug regimens such as Capomulin and Ramicane are more effective in reducing tumor size compared to other treatments.
+   - Drug regimens such as Capomulin and Ramicane are more effective in reducing tumor size compared to other treatments.
 2.	Mouse Weight vs. Tumor Size:
-- Tumor size correlates positively with mouse weight in certain regimens, as seen in scatter plot analyses.
+   - Tumor size correlates positively with mouse weight in certain regimens, as seen in scatter plot analyses.
 3.	Drug Performance:
-- Visualizations like box plots highlight that Capomulin and Ramicane have the lowest variance and smallest final tumor sizes.
+   - Visualizations like box plots highlight that Capomulin and Ramicane have the lowest variance and smallest final tumor sizes.
 ---
-
-## Author
-
-**Kendall Burkett**  
-https://github.com/KendallBurkett?tab=repositories
- 
-kbz1987@icloud.com
 
