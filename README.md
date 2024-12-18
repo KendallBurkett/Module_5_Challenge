@@ -1,6 +1,5 @@
 ## Matplotlib
 ---
-
 # Pymaceuticals Drug Study Analysis
 
 ## Table of Contents
